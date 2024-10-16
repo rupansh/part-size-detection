@@ -1,0 +1,4 @@
+polars
+opencv-python
+imutils
+numpy
